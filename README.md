@@ -5,4 +5,4 @@ A graphical application created with the [fyne.io](https://fyne.io) lib and the 
 ## Exemplo
 ![Fynancial App](./Fynancial-App.gif)
 
-Péssima qualidade kkk 👽
+GIF ficou em péssima qualidade de video, mas o app é bom kkk 👽
